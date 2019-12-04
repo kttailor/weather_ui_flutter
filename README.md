@@ -4,9 +4,10 @@ This is the source code repository for wather application UI in Flutter. Challen
 
 # Demo
 
-![1](screenshot/1.png)  ![2](screenshot/9.png)
-
-![3](screenshot/12.png) ![4](screenshot/0.png)
+<img src="screenshot/1.png" alt="1"
+	title="1" width="375" height="812" />    <img src="screenshot/9.png" alt="9"
+	title="9" width="375" height="812" /> <img src="screenshot/12.png" alt="12"
+	title="12" width="375" height="812" />
 
 # ☁️ Credits
 
