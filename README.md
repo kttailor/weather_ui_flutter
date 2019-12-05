@@ -28,7 +28,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # How to hire me
 
-You can hire me as a Flutter Developer or iOS Developer for your project. In case you have a work, you can hire me using [Upwork](https://www.upwork.com/fl/krunalt5) platform or we can open a direct contract via [Email](mailto:krunalelance@gmail.com).
+You can hire me as a Flutter Developer or iOS Developer for your project. In case you have a work, you can hire me using [Upwork](https://www.upwork.com/fl/krunalt5) platform or we can open a direct contact via [Email](mailto:krunalelance@gmail.com).
 
 # Follow Me: 
 
